@@ -11,5 +11,5 @@
 ## 2. Laboratory 2
 - [Design Patterns](https://refactoring.guru)
 ## 3. Laboratory 3
-- [SOLID]()
+- [SOLID](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
 - [Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
