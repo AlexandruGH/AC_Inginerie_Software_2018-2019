@@ -2,7 +2,7 @@
 
 [![](https://image.ibb.co/ez4RJ0/SE-Alex.png)]()
 ## ~ Laboratory ~
-
+- [Prezență și proiect] (https://docs.google.com/spreadsheets/d/1Dth0X-8L1gzpurJzPNtKWvXf09LUVZn_GpUZnoEERQw/edit?usp=sharing)
 - Alexandru Ghiuruțan (alexandru.ghiurutan95@gmail.com)
 
 ## 1. Laboratory 1
