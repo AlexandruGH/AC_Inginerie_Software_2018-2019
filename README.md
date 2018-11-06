@@ -19,7 +19,7 @@
  ## ~ Rails ~
  - [Rails : installer (Windows)](http://railsinstaller.org/en)
  - [Rails : simple blog app](https://guides.rubyonrails.org/v5.1/getting_started.html)
- - [Heroku -cloud solution (Must use Postgres instead of SQLite!)](https://devcenter.heroku.com/articles/getting-started-with-rails5)
+ - [Heroku -cloud solution (Must use PostgreSQL instead of SQLite!)](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 
 
 ## ~ Laboratory ~
