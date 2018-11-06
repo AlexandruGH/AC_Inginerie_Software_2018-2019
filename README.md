@@ -34,3 +34,19 @@
 ## 3. Laboratory 3
 - [SOLID](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
 - [Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+
+## 4. Laboratory 4-5-6
+- [SQL Injection](https://youtu.be/_jKylhJtPmI)
+
+- [How to NOT store passwords in your database](https://youtu.be/8ZtInClXe1Q)
+
+- [Hyperthreading](https://youtu.be/wnS50lJicXc)
+
+- [Client-Server model](https://youtu.be/L5BlpPU_muY)
+
+- [Ipv4 vs Ipv6](https://youtu.be/aor29pGhlFE)
+
+- [MAC address](https://youtu.be/UrG7RTWIJak)
+
+- [DNS](https://youtu.be/Rck3BALhI5c)
+
