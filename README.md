@@ -40,6 +40,8 @@
 
 - [How to NOT store passwords in your database](https://youtu.be/8ZtInClXe1Q)
 
+- [Password cracking]https://www.youtube.com/watch?v=7U-RbOKanYs)
+
 - [Hyperthreading](https://youtu.be/wnS50lJicXc)
 
 - [Client-Server model](https://youtu.be/L5BlpPU_muY)
