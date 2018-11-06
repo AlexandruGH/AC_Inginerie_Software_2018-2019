@@ -2,19 +2,24 @@
 
 [![](https://image.ibb.co/ez4RJ0/SE-Alex.png)]()
 
- 
-- [Spring Boot : video] (https://www.youtube.com/watch?v=M1niptdxtIM&list=PLs5n5nYB22fI83_UAFbPLC-Mg9Uc6jeU4)
-- [Spring Boot : official documentation] (https://spring.io/guides)
 
-- [Android : video, at least first 20-25 videos](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
-- [Android : paper resources](http://www.vogella.com/tutorials/android.html)
+## ~ Project ~
+  ## ~ Spring ~
+  - [Spring Boot : video](https://www.youtube.com/watch?v=M1niptdxtIM&list=PLs5n5nYB22fI83_UAFbPLC-Mg9Uc6jeU4)
+  - [Spring Boot : official documentation](https://spring.io/guides)
 
-- [Scala : AKKA example](https://doc.akka.io/docs/akka/2.0/intro/getting-started-first-scala.html)
-- [Scala : basics] (https://youtu.be/DzFt0YkZo8M)
+  ## ~ Android ~
+  - [Android : video, at least first 20-25 videos](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+  - [Android : paper resources](http://www.vogella.com/tutorials/android.html)
 
-- [Rails : installer (Windows)](http://railsinstaller.org/en)
-- [Rails : simple blog app] (https://guides.rubyonrails.org/v5.1/getting_started.html)
-- [Heroku -cloud solution (Must use Postgres instead of SQLite!)] (https://devcenter.heroku.com/articles/getting-started-with-rails5)
+  ## ~ Scala ~
+  - [Scala : AKKA example](https://doc.akka.io/docs/akka/2.0/intro/getting-started-first-scala.html)
+  - [Scala : basics](https://youtu.be/DzFt0YkZo8M)
+
+ ## ~ Rails ~
+ - [Rails : installer (Windows)](http://railsinstaller.org/en)
+ - [Rails : simple blog app](https://guides.rubyonrails.org/v5.1/getting_started.html)
+ - [Heroku -cloud solution (Must use Postgres instead of SQLite!)](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 
 
 ## ~ Laboratory ~
