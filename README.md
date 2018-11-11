@@ -21,6 +21,10 @@
  - [Rails : installer (Windows)](http://railsinstaller.org/en)
  - [Rails : simple blog app](https://guides.rubyonrails.org/v5.1/getting_started.html)
  - [Heroku -cloud solution (Must use PostgreSQL instead of SQLite!)](https://devcenter.heroku.com/articles/getting-started-with-rails5)
+ 
+ ## ~ Java (without frameworks) ~
+ - [Java Begginer basics+MySQL+Multithreading](https://www.youtube.com/user/caveofprogramming/playlists)
+ - [Design Patterns in Java](https://youtu.be/aKbSlgi5h68)
 
 
 ## ~ Laboratory ~
