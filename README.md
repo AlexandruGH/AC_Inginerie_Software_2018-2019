@@ -11,6 +11,7 @@
   ## ~ Android ~
   - [Android : video, at least first 20-25 videos](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
   - [Android : paper resources](http://www.vogella.com/tutorials/android.html)
+  - [Android : For better emulator performance use Genymotion](https://www.genymotion.com/)
 
   ## ~ Scala ~
   - [Scala : AKKA example](https://doc.akka.io/docs/akka/2.0/intro/getting-started-first-scala.html)
