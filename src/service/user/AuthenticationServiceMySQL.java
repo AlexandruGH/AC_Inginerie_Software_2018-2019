@@ -2,7 +2,10 @@ package service.user;
 import model.Role;
 import model.User;
 import model.builder.UserBuilder;
+import model.validation.Notification;
+import model.validation.UserValidator;
 import repository.security.RightsRolesRepository;
+import repository.user.AuthenticationException;
 import repository.user.UserRepository;
 
 import java.security.MessageDigest;
@@ -21,22 +24,30 @@ public class AuthenticationServiceMySQL implements AuthenticationService {
     }
 
     @Override
-    public boolean register(String username, String password) {
-        String encodedPassword = encodePassword(password);
-
+    public Notification<Boolean> register(String username, String password) {
         Role customerRole = rightsRolesRepository.findRoleByTitle(CUSTOMER);
-
         User user = new UserBuilder()
                 .setUsername(username)
-                .setPassword(encodedPassword)
+                .setPassword(password)
                 .setRoles(Collections.singletonList(customerRole))
                 .build();
 
-        return userRepository.save(user);
+        UserValidator userValidator = new UserValidator(user);
+        boolean userValid = userValidator.validate();
+        Notification<Boolean> userRegisterNotification = new Notification<>();
+
+        if (!userValid) {
+            userValidator.getErrors().forEach(userRegisterNotification::addError);
+            userRegisterNotification.setResult(Boolean.FALSE);
+        } else {
+            user.setPassword(encodePassword(password));
+            userRegisterNotification.setResult(userRepository.save(user));
+        }
+        return userRegisterNotification;
     }
 
     @Override
-    public User login(String username, String password) {
+    public Notification<User> login(String username, String password) throws AuthenticationException {
         return userRepository.findByUsernameAndPassword(username, encodePassword(password));
     }
 
