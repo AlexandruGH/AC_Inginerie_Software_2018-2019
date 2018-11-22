@@ -32,16 +32,16 @@
 - [Prezență și proiect](https://docs.google.com/spreadsheets/d/1Dth0X-8L1gzpurJzPNtKWvXf09LUVZn_GpUZnoEERQw/edit?usp=sharing)
 - Contact: Alexandru Ghiuruțan (alexandru.ghiurutan95@gmail.com)
 
-## 1. Laboratory 1
+## Laboratory 1
 - OOP Recap
 - [Learning GIT](https://www.codecademy.com/learn/learn-git)
-## 2. Laboratory 2
+## Laboratory 2
 - [Design Patterns](https://refactoring.guru/design-patterns)
-## 3. Laboratory 3
+## Laboratory 3
 - [SOLID](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
 - [Dependency Injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 
-## 4. Laboratory 4-5-6
+## Laboratory 4-5-6
 - [SQL Injection](https://youtu.be/_jKylhJtPmI)
 
 - [How to NOT store passwords in your database](https://youtu.be/8ZtInClXe1Q)
@@ -58,3 +58,7 @@
 
 - [DNS](https://youtu.be/Rck3BALhI5c)
 
+## Laboratory 7-8
+- [Fowler's Notification design pattern](https://martinfowler.com/eaaDev/Notification.html)
+- [How to execute at the same time 2 synchronized methods from the same object in Java](https://stackoverflow.com/questions/15438727/if-i-synchronized-two-methods-on-the-same-class-can-they-run-simultaneously)
+- [Layers vs MVC](https://stackoverflow.com/questions/10739914/what-is-the-difference-between-3-tier-architecture-and-a-mvc)
