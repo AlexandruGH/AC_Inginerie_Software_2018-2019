@@ -13,6 +13,7 @@
   - [Android : video, at least first 20-25 videos](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
   - [Android : paper resources](http://www.vogella.com/tutorials/android.html)
   - [Android RecyclerView example application](https://www.androidhive.info/2016/01/android-working-with-recycler-view/)
+  - [Android Database connection example using Room](https://medium.freecodecamp.org/room-sqlite-beginner-tutorial-2e725e47bfab)
   - [Android : For better emulator performance use Genymotion](https://www.genymotion.com/)
 
   ## ~ Scala ~
