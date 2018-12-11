@@ -66,3 +66,8 @@
 - [How to execute at the same time 2 synchronized methods from the same object in Java](https://stackoverflow.com/questions/15438727/if-i-synchronized-two-methods-on-the-same-class-can-they-run-simultaneously)
 - [Layers vs MVC](https://stackoverflow.com/questions/10739914/what-is-the-difference-between-3-tier-architecture-and-a-mvc)
 - [How to choose a password](https://youtu.be/3NjQ9b3pgIg)
+
+## Laboratory 11
+- [Java Sockets simple edition](https://www.baeldung.com/a-guide-to-java-sockets)
+
+- [Java Sockets extended edition](https://www.javaworld.com/article/2077322/core-java/core-java-sockets-programming-in-java-a-tutorial.html)
