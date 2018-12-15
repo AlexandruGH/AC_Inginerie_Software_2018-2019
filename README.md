@@ -15,6 +15,7 @@
   - [Android RecyclerView example application](https://www.androidhive.info/2016/01/android-working-with-recycler-view/)
   - [Android Database connection example using Room](https://medium.freecodecamp.org/room-sqlite-beginner-tutorial-2e725e47bfab)
   - [Android : For better emulator performance use Genymotion](https://www.genymotion.com/)
+  - [Android : For debugging purposes, you should learn to use LogCat](https://youtu.be/Jo7Gv6NUj3g)
 
   ## ~ Scala ~
   - [Scala : AKKA example](https://doc.akka.io/docs/akka/2.0/intro/getting-started-first-scala.html)
