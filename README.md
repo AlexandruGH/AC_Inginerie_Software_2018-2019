@@ -15,7 +15,7 @@
   - [Android RecyclerView example application](https://www.androidhive.info/2016/01/android-working-with-recycler-view/)
   - [Android Database connection example using Room](https://medium.freecodecamp.org/room-sqlite-beginner-tutorial-2e725e47bfab)
   - [Android: Be carefull! Not every thread can update the UI in Android.
-  Here you have and example of UI update from an AsyncTask. 
+  Here you have and example of UI update from an AsyncTask.
   The same doesn't work with simple Thread. 
   Other solutions exists such as runOnUiThread(new Runnable){...}) method. ](https://stackoverflow.com/questions/23978400/how-to-update-ui-from-asynctask)
   - [Android : For better emulator performance use Genymotion](https://www.genymotion.com/)
