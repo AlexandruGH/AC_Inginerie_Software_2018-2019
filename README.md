@@ -76,3 +76,14 @@
 - [Java Sockets simple edition](https://www.baeldung.com/a-guide-to-java-sockets)
 
 - [Java Sockets extended edition](https://www.javaworld.com/article/2077322/core-java/core-java-sockets-programming-in-java-a-tutorial.html)
+
+
+## Clean code
+
+- [All of them are amaizing!](https://www.youtube.com/playlist?list=PL693EFD059797C21E)
+
+
+
+## Extra topics
+- [Public Key Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4&t=3s)
+- [Certificate Authorities in the context of Man in the Middle Attacks](https://www.youtube.com/watch?v=-enHfpHMBo4&t=4s)
